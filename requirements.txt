@@ -1,0 +1,4 @@
+streamlit==0.87.0
+pillow
+azure-cognitiveservices-vision-contentmoderator
+msrest
